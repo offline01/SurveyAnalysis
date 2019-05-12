@@ -1,0 +1,13 @@
+commentData folder:
+-raw data.xlsx: the data set of the survey reports for BADM 508 (SP 17 AND SP 18) Leadership (Loewenstein & Goncalo) and BADM 590 (Fa 17 and 18) Global Strategy (Buchelli) together
+-590_17_suggestion_IMBA: the text comment on suggestion for iMBA program by students in BADM 590 FALL 17
+-590_18_suggestion_IMBA: the text comment on suggestion for iMBA program by students in BADM 590 FALL 18
+
+README.txt:
+describes how to run the code and an overview of how it works
+
+tagGenerator.py:
+the code
+
+folder structor.text:
+shows the folder structor
